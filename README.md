@@ -1,6 +1,10 @@
 # Bookmarks
 Links to read or remember
 
+## Analysis Tools
+- https://observatory.mozilla.org/analyze.html
+- https://sonarwhal.com/
+
 ## Accessibility
 
 ### Articles/Checklists
