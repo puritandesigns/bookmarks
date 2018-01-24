@@ -1,5 +1,5 @@
 # Bookmarks
-Links to read or remember
+Links to read or remember.
 
 ## Analysis Tools
 - https://observatory.mozilla.org/analyze.html
@@ -24,7 +24,12 @@ Links to read or remember
 - http://wave.webaim.org/extension/
 - https://validator.w3.org/
 
-## Email Security/Authentification
+## Security
+
+### General Security
+- https://securityplanner.org/
+
+### Email Security/Authentification
 - https://blog.returnpath.com/how-to-explain-spf-in-plain-english/
 - https://blog.returnpath.com/how-to-explain-dkim-in-plain-english-2/
 - https://blog.returnpath.com/how-to-explain-dmarc-in-plain-english/
