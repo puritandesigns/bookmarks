@@ -18,6 +18,7 @@ Links to read or remember.
 ### Screen Readers
 - http://accessibility.psu.edu/screenreaders/voiceover/	
 - http://www.nvaccess.org/
+- https://developer.paciellogroup.com/blog/2018/01/a-tale-of-two-rooms-understanding-screen-reader-navigation/
 
 ### Tools
 - https://www.axe-core.org/ - JS accessibility testing
