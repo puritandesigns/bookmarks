@@ -36,3 +36,6 @@ Links to read or remember.
 - https://blog.returnpath.com/how-to-explain-dmarc-in-plain-english/
 - https://blog.returnpath.com/build-your-dmarc-record-in-15-minutes-v2/
 - https://blog.returnpath.com/demystifying-the-dmarc-record/
+
+### Human Element in Security
+- https://medium.com/all-things-cyber/practical-human-security-the-enemy-95a5039fffcd
