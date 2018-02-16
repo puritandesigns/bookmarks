@@ -15,6 +15,9 @@ Links to read or remember.
 - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 - http://accessibilitytips.com/
 
+### Code
+- https://github.com/sweetalert2/sweetalert2
+
 ### Screen Readers
 - http://accessibility.psu.edu/screenreaders/voiceover/	
 - http://www.nvaccess.org/
