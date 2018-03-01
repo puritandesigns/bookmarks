@@ -27,6 +27,7 @@ Links to read or remember.
 - https://www.axe-core.org/ - JS accessibility testing
 - http://wave.webaim.org/extension/
 - https://validator.w3.org/
+- https://github.com/GoogleChrome/lighthouse/blob/HEAD/docs/readme.md
 
 ## Security
 
