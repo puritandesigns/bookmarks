@@ -18,6 +18,7 @@ Links to read or remember.
 ### Code
 - https://github.com/sweetalert2/sweetalert2
 - https://alligator.io/vuejs/vue-a11y-autocomplete/
+- https://github.com/rikschennink/short-and-sweet
 
 ### Screen Readers
 - http://accessibility.psu.edu/screenreaders/voiceover/	
