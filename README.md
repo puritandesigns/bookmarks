@@ -30,6 +30,9 @@ Links to read or remember.
 - http://www.nvaccess.org/
 - https://developer.paciellogroup.com/blog/2018/01/a-tale-of-two-rooms-understanding-screen-reader-navigation/
 
+### Talks
+- https://accessibility.scot/heydon-pickering-why-inclusive-design-is-like-cooking-a-curry/
+
 ### Tools
 - https://www.axe-core.org/ - JS accessibility testing
 - http://wave.webaim.org/extension/
