@@ -20,10 +20,12 @@ Links to read or remember.
 - https://alligator.io/vuejs/vue-a11y-autocomplete/
 - https://github.com/rikschennink/short-and-sweet
 
+### Courses
+- https://github.com/mgifford/a11y-courses
+
 ### Games
 - http://gameaccessibilityguidelines.com/
 - https://www.gamasutra.com/blogs/IanHamilton/20150715/248571/How_to_do_subtitles_well__basics_and_good_practices.php
-
 
 ### Screen Readers
 - http://accessibility.psu.edu/screenreaders/voiceover/	
