@@ -35,6 +35,7 @@ Links to read or remember.
 
 ### Talks
 - https://accessibility.scot/heydon-pickering-why-inclusive-design-is-like-cooking-a-curry/
+- https://lkopacz.github.io/aria-presentation/
 
 ### Tools
 - https://www.axe-core.org/ - JS accessibility testing
