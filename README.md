@@ -15,6 +15,7 @@ Links to read or remember.
 - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 - http://accessibilitytips.com/
 - https://www.deque.com/blog/advanced-aria/
+- https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/
 
 ### Code
 - https://github.com/sweetalert2/sweetalert2
