@@ -16,6 +16,7 @@ Links to read or remember.
 - http://accessibilitytips.com/
 - https://www.deque.com/blog/advanced-aria/
 - https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/
+- https://adamsilver.io/articles/where-to-put-buttons-in-forms/
 
 ### Code
 - https://github.com/sweetalert2/sweetalert2
