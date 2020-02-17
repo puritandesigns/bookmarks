@@ -17,6 +17,7 @@ Links to read or remember.
 - https://www.deque.com/blog/advanced-aria/
 - https://www.24a11y.com/2018/accessible-svg-icons-with-inline-sprites/
 - https://adamsilver.io/articles/where-to-put-buttons-in-forms/
+- https://adamsilver.io/articles/building-an-accessible-autocomplete-control/
 
 ### Code
 - https://github.com/sweetalert2/sweetalert2
